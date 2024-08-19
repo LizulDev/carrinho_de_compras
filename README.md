@@ -1,4 +1,4 @@
-## Carrinho de compras - Desafio Claro Java com SpringBoot
+## {Exercicio 1} Carrinho de compras - Desafio Claro Java com SpringBoot
 
 Este desafio consiste em criar um programa que pode: 
 
@@ -19,6 +19,28 @@ Calcular valor total:
 public double calcularValorTotal(String nome);
 ```
 
-feito em Java com a estruturas de **List e ArrayList** e seus metodos nativos. 
+## {Exercicio 2} Soma de numeros - Desafio Claro Java com SpringBoot
 
+Criou-se uma classe SomaNumeros para fazer as seguintes ações:
+
+- Adicionar um numero à lista;
+```java
+public void adicionarNumero(int num);
+```
+- calcular a soma dos numeros na lista;
+```java
+public double calcularSoma();
+```
+- encontrar o maior entre os numeros;
+```java
+public double encontrarMaiorValor();
+```
+- encontrar o menor entre os numeros;
+```java
+public double encontrarMenorValor(String nome);
+```
+- exibir todos os numeros da lista;
+```java
+public void exibirNumeros();
+```
 
